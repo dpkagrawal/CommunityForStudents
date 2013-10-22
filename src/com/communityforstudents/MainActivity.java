@@ -1,4 +1,6 @@
-package com.example.communityforstudents;
+package com.communityforstudents;
+
+import com.example.communityforstudents.R;
 
 import android.os.Bundle;
 import android.app.Activity;
